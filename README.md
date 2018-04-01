@@ -1,4 +1,4 @@
-# mljs
+# mljs [![CircleCI](https://circleci.com/gh/kritzware/mljs.svg?style=svg)](https://circleci.com/gh/kritzware/mljs)
 Machine Learning library based on Tensorflow and Keras, implemented in Typescript
 
 ### Example
